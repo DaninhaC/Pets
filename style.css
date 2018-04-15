@@ -1,0 +1,61 @@
+body {
+	margin:0;
+	padding:0px;
+	background: url(images/bckg.jpg)#5dcaf1;
+	}
+	#container{
+        margin:0 auto;
+        text-align:center;
+	    width:980px;
+        background-color:#FFFFFF;
+	}
+	#parceiros{
+	  float:left;
+
+	}
+	#cont{
+
+	 padding-right:100px;
+
+	}
+a {
+	color:#FFFFFF;font-size:17px;
+	}
+.menu a{
+    text-align:center;
+    color:#191970;
+    background-color:#d0e4fe;
+    text-decoration: none;
+    border-bottom: 0px;
+    padding: 10px 20px 10px 20px;
+}
+.menu a:hover{
+   padding-top:10px;
+   color:gray;
+   transform:rotatey(9deg);
+   transition:1s;
+}
+#logo {
+    padding:0;
+    background:url('images/banner1.png') no-repeat;
+
+    height:210px;
+    transition:15s;
+}
+ #nome {
+	font-size:24px;
+	font-weight:normal;
+	text-align:left;
+	padding:40px 0 0 30px;
+	height:115px;
+	background: url();
+	}
+	.d {font-size:24px;margin:50px auto}
+        .a  {font-size:17px}
+       
+	#nome .y {
+		color:white;
+		}
+        .c{font-size:15px;color:#5dcaf1}
+        .e{font-size:24px;color:#5dcaf1;margin:100px auto}
+        .f{font-size:20px;color:#5dcaf1}
